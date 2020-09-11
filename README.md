@@ -13,6 +13,6 @@ Requirements:
 
 How to use:
 
-1- enter you frequency, sampling rate, gain, number of samples, and other information in the code
+1- Enter you frequency, sampling rate, gain, number of samples, and other information in the code
 
-2- just run and enjoy!
+2- Just run and enjoy!
